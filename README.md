@@ -1,21 +1,26 @@
-# Portfólio de Certificados
+# 📜 Certificados
 
-Este repositório serve como meu portfólio de certificados de cursos e treinamentos concluídos.
+Este repositório foi criado com o objetivo de **armazenar e organizar certificados de cursos e formações** que realizei ao longo da minha jornada de aprendizado na área de tecnologia.
 
-## Certificados
-
-- **HASHTAG TREINAMENTOS** - (Jornada Python) -
-  O certificado deste curso está disponível no arquivo [📄 Certificado](Validação%20Certificado.pdf).
-  
-- **Java Básico [40 Horas]** (Gustavo Guanabara) - 
-  O certificado deste curso está disponível no arquivo [📄 Certificado](Guilherme-Matte-Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf).
-
- 
-
-
-## Objetivo
-
-Aqui serão adicionados todos os meus certificados de cursos realizados.
+Os certificados aqui presentes representam **etapas do meu desenvolvimento**, servindo como complemento aos estudos teóricos e práticos que venho realizando.
 
 ---
-*Este repositório é de uso pessoal para organização e validação dos meus certificados.*
+
+## 📂 Conteúdo do Repositório
+
+Atualmente, este repositório reúne certificados de cursos introdutórios e intermediários, relacionados a diferentes temas dentro da área de tecnologia e programação.
+
+Os arquivos estão disponibilizados em formato PDF para fácil visualização e validação.
+
+---
+
+## 🚀 Observação
+
+Este repositório possui caráter **organizacional e complementar**.  
+Os conhecimentos adquiridos por meio desses cursos estão sendo aplicados progressivamente em **projetos práticos**, disponíveis em outros repositórios do meu perfil.
+
+---
+
+✍️ **Autor:** Guilherme Matté  
+📚 **Aprendizado contínuo**
+
