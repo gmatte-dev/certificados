@@ -9,7 +9,7 @@ Os certificados aqui presentes representam **etapas do meu desenvolvimento**, se
 ## 📂 Certificados Disponíveis
 
 - [Java Básico – 40 horas](Guilherme-Matte-Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf)
-- [Carreira em IA – do zero ao primeiro agente - n8n](certificado_carreiraIA_n8n.pdf). 
+- [Carreira em IA – do zero ao primeiro agente - Automação N8N](certificado_carreiraIA_n8n.pdf). 
 - [Validação de Certificado](hashtag_treinamentos.pdf).
 
 *(Clique no nome para visualizar o certificado)*
