@@ -6,11 +6,13 @@ Os certificados aqui presentes representam **etapas do meu desenvolvimento**, se
 
 ---
 
-## 📂 Conteúdo do Repositório
+## 📂 Certificados Disponíveis
 
-Atualmente, este repositório reúne certificados de cursos introdutórios e intermediários, relacionados a diferentes temas dentro da área de tecnologia e programação.
+- [Java Básico – 40 horas](./Guilherme-Matte-Java-Basico-40-Horas-Certificado.pdf)
+- [Carreira em IA – do zero ao primeiro agente](./Certificado_Carreira_IA_do_zero_ao_primeiro_agente.pdf)
+- [Validação de Certificado](./Validação_Certificado.pdf)
 
-Os arquivos estão disponibilizados em formato PDF para fácil visualização e validação.
+*(Clique no nome para visualizar o certificado)*
 
 ---
 
@@ -22,5 +24,4 @@ Os conhecimentos adquiridos por meio desses cursos estão sendo aplicados progre
 ---
 
 ✍️ **Autor:** Guilherme Matté  
-📚 **Aprendizado contínuo**
 
