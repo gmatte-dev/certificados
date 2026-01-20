@@ -10,7 +10,8 @@ Os certificados aqui presentes representam **etapas do meu desenvolvimento**, se
 
 - [Java Básico – 40 horas](Guilherme-Matte-Java-Basico-40-Horas-Certificado-Curso-em-Video.pdf)
 - [Carreira em IA – do zero ao primeiro agente - Automação N8N](certificado_carreiraIA_n8n.pdf). 
-- [Validação de Certificado](hashtag_treinamentos.pdf).
+- [Jornada Python - Hashtag Treinamentos - 8 horas](hashtag_treinamentos.pdf).
+- [Curso Python - Santander - 8 horas ](CERTIFICADO_PYTHON_SANTANDER.pdf).
 
 *(Clique no nome para visualizar o certificado)*
 
