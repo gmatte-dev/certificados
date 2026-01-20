@@ -12,6 +12,7 @@ Os certificados aqui presentes representam **etapas do meu desenvolvimento**, se
 - [Carreira em IA – do zero ao primeiro agente - Automação N8N](certificado_carreiraIA_n8n.pdf). 
 - [Jornada Python - Hashtag Treinamentos - 8 horas](hashtag_treinamentos.pdf).
 - [Curso Python - Santander - 8 horas ](CERTIFICADO_PYTHON_SANTANDER.pdf).
+- [Cursor com Python: desenvolvimento inteligente com IA - Santander - 8 horas](CERTIFICADO_CURSOR_COM_PYTHON_SANTANDER.pdf).
 
 *(Clique no nome para visualizar o certificado)*
 
