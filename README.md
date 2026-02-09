@@ -14,6 +14,7 @@ Os certificados aqui presentes representam **etapas do meu desenvolvimento**, se
 - [Curso Python - Santander - 8 horas ](CERTIFICADO_PYTHON_SANTANDER.pdf).
 - [Cursor com Python: desenvolvimento inteligente com IA - Santander - 8 horas](CERTIFICADO_CURSOR_COM_PYTHON_SANTANDER.pdf).
 - [Jornada Inteligência Artificial - Hashtag Treinamentos - 8 horas](CERTIFICADO_IA_HASHTAG_TREINAMENTOS.pdf).
+- [Imersão de Dados com Python II - ALURA - 4 horas](Imersao_de_dados_python_ALURA.pdf).
 
 *(Clique no nome para visualizar o certificado)*
 
