@@ -50,7 +50,7 @@ Este repositório reúne os **certificados e formações** que compõem minha tr
 
 | # | Certificação | Instituição | Carga Horária | Certificado |
 |:-:|:------------|:------------|:-------------:|:-----------:|
-| 1 | **Carreira em IA: Do Zero ao Primeiro Agente** | Automação N8N | — | [📄 Ver certificado](certificado_carreiraIA_n8n.pdf) |
+| 1 | **Carreira em IA: Do Zero ao Primeiro Agente** | Rocketseat | — | [📄 Ver certificado](certificado_carreiraIA_n8n.pdf) |
 | 2 | **Jornada Inteligência Artificial** | Hashtag Treinamentos | 8h | [📄 Ver certificado](CERTIFICADO_IA_HASHTAG_TREINAMENTOS.pdf) |
 
 ### 📊 Dados & Analytics
