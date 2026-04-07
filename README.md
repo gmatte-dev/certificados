@@ -68,7 +68,7 @@ Este repositório reúne os **certificados e formações** que compõem minha tr
 | Métrica | Valor |
 |:--------|:-----:|
 | 📚 Total de certificações | **7** |
-| ⏱️ Horas totais de estudo certificado | **76h+** |
+| ⏱️ Horas totais de estudo certificado | **80h+** |
 | 🔧 Tecnologias abordadas | **Java, Python, IA, N8N, Data Science** |
 | 📅 Status | **Em constante atualização** |
 
